@@ -14,7 +14,6 @@ Habilidades:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" />
 </div>
 <br>
@@ -26,6 +25,7 @@ Contato:
   <a href="https://drive.google.com/file/d/1zI5njTOyNVgmzRGwNLBODKTlr2IBKQ3k/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%23103B13?style=for-the-badge&Color=white" target="_blank"></a>
   <a href = "mailto:carolinagoshima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E65602?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolyumi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/adriano-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ##
